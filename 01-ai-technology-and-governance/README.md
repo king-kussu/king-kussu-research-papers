@@ -13,7 +13,7 @@ This collection presents research by KING KUSSU examining artificial intelligenc
 
 This paper examines how artificial intelligence increasingly influences consequential decisions, the transfer of practical decision authority to algorithmic systems, and the institutional safeguards necessary to preserve meaningful human oversight, accountability, and sovereignty.
 
-**Full paper:** PDF link to be added after the publication file is organized.
+**Full paper:** [Read and download the research paper](https://github.com/king-kussu/king-kussu-research-papers/blob/main/The_Algorithmic_Executive_KING_KUSSU_2026.pdf)
 
 ## Related Interdisciplinary Research
 
