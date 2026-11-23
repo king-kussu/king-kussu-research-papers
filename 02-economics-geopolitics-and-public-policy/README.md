@@ -4,7 +4,7 @@
 
 This collection presents independent research by KING KUSSU examining economic policy, sovereign debt, fiscal sustainability, international relations, political sovereignty, geopolitical power, and the long-term economic consequences of major policy decisions.
 
-## Research Publications
+## Explore Research Publications
 
 ### 1. The Economic Stakes of a United Kingdom Withdrawal from the European Union
 
