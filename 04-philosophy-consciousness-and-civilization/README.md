@@ -103,7 +103,7 @@ The framework is a conceptual model intended for further investigation, not a sc
 
 **Keywords:** Civilisation, Resilience, Cultural Memory, Identity, Sovereignty, Social Cohesion, Institutions, Language, Defence, Cultural Continuity, Adaptation, State Capacity, Heritage, Collective Memory, Civilizational Vitality.
 
-**Full Research Paper:** PDF link pending upload and verification.
+**Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/89e598bc0cf27f99a46b794ac4306ee235d44f47/04-philosophy-consciousness-and-civilization/The_Living_Civilisation_KING_KUSSU_2026.pdf)
 
 ---
 
