@@ -52,7 +52,7 @@ The paper is a conceptual and interdisciplinary inquiry rather than an experimen
 
 **Keywords:** Truth, Truthfulness, Epistemology, Ontology, Non-Contradiction, Memory, Self-Deception, Motivated Reasoning, Intellectual Humility, Integrity, Spirituality.
 
-**Full Research Paper:** PDF link pending upload and verification.
+**Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/11e0cb077ba5df128c98324a2392c391f45e1a8e/04-philosophy-consciousness-and-civilization/Truth_Does_Not_Contradict_Itself_KING-KUSSU_2009.pdf)
 
 ---
 
