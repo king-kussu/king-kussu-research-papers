@@ -118,7 +118,7 @@ The proposed Human Energy Economy is presented as a theoretical synthesis and re
 
 **Keywords:** Human Energy Economy, Consciousness, Attention, Human Agency, Cognitive Resources, Self-Regulation, Neuroenergetics, Energy Stewardship, Spirituality, Organizational Systems.
 
-**Full Research Paper:** PDF link pending upload and verification.
+**Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/dd00c8775f54480acb639625e9db75e5bee0b226/03-human-agency-performance-and-systems/The_Economy_of_Human_Energy_KING_KUSSU_2016.pdf)
 
 #### Related Book — Further Reading
 
