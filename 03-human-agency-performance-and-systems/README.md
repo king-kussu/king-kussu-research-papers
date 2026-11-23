@@ -75,7 +75,7 @@ The paper develops conceptual propositions and identifies opportunities for futu
 
 **Keywords:** Motivation, Automation, Human Performance, Systems Thinking, Workflow Reliability, Organizational Routines, Cognitive Offloading, Artificial Intelligence, Human-Centered Automation.
 
-**Full Research Paper:** PDF link pending upload and verification.
+**Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/408f6239c577117c3e123daa1e7052df2b36b60a/03-human-agency-performance-and-systems/From_Motivation_to_Automation_KING_KUSSU_2026.pdf)
 
 #### Related Book — Further Reading
 
