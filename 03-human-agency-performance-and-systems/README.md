@@ -38,7 +38,7 @@ The integrated framework is presented as a conceptual model requiring empirical 
 
 **Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/6d78b00dd76772fc48fa9650d97cbad29388adf7/03-human-agency-performance-and-systems/Beyond_Motivation_and_the_Design_of_Sustained_Goal_Pursuit_KING_KUSSU_2026.pdf)
 
-#### Related Book — Further Reading
+#### Explore the Related Book
 
 **Beyond Motivation: KING KUSSU’s Blueprint for Automated Success — 100Quotes to Build Systems and Succeed**
 
@@ -46,9 +46,7 @@ The integrated framework is presented as a conceptual model requiring empirical 
 
 For readers seeking a book-length exploration of motivation, structured action, personal development, and systems for achieving meaningful goals, this related publication provides an additional resource.
 
-**Available on Amazon:**
-
-[Explore Beyond Motivation on Amazon](https://www.amazon.com/dp/1919208909)
+**[View the Book on Amazon](https://www.amazon.com/dp/1919208909)**
 
 ---
 
@@ -77,7 +75,7 @@ The paper develops conceptual propositions and identifies opportunities for futu
 
 **Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/408f6239c577117c3e123daa1e7052df2b36b60a/03-human-agency-performance-and-systems/From_Motivation_to_Automation_KING_KUSSU_2026.pdf)
 
-#### Related Book — Further Reading
+#### Explore the Related Book
 
 **From Motivation to Automation: Build Systems for Better Work, Stronger Habits, and Consistent Results**
 
@@ -87,9 +85,7 @@ This related book provides an opportunity to explore the practical application o
 
 It complements the research paper's theoretical discussion of motivation, structured continuity, and human-centered automation.
 
-**Available on Amazon:**
-
-[Explore From Motivation to Automation on Amazon](https://www.amazon.com/dp/1066689512)
+**[View the Book on Amazon](https://www.amazon.com/dp/1066689512)**
 
 ---
 
@@ -120,7 +116,7 @@ The proposed Human Energy Economy is presented as a theoretical synthesis and re
 
 **Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/dd00c8775f54480acb639625e9db75e5bee0b226/03-human-agency-performance-and-systems/The_Economy_of_Human_Energy_KING_KUSSU_2016.pdf)
 
-#### Related Book — Further Reading
+#### Explore the Related Book
 
 **THE ECONOMY OF HUMAN ENERGY: Understanding the Hidden Costs of Life, Thought, and Civilization**
 
@@ -128,9 +124,7 @@ The proposed Human Energy Economy is presented as a theoretical synthesis and re
 
 For readers interested in a more extensive exploration of human energy, the demands of everyday life, the allocation of cognitive and emotional resources, and the relationship between individual activity and civilization, this related book offers further reading.
 
-**Available on Amazon:**
-
-[Explore The Economy of Human Energy on Amazon](https://www.amazon.com/dp/1066689598)
+**[View the Book on Amazon](https://www.amazon.com/dp/1066689598)**
 
 ---
 
