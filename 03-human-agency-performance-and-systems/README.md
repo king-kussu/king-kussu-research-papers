@@ -36,7 +36,7 @@ The integrated framework is presented as a conceptual model requiring empirical 
 
 **Keywords:** Motivation, Goal Pursuit, Human Agency, Self-Regulation, Behavioral Systems, Habit Formation, Implementation Intentions, Performance.
 
-**Full Research Paper:** PDF link pending upload and verification.
+**Full Research Paper:** [Read & Download the Research Paper](https://github.com/king-kussu/king-kussu-research-papers/blob/6d78b00dd76772fc48fa9650d97cbad29388adf7/03-human-agency-performance-and-systems/Beyond_Motivation_and_the_Design_of_Sustained_Goal_Pursuit_KING_KUSSU_2026.pdf)
 
 #### Related Book — Further Reading
 
