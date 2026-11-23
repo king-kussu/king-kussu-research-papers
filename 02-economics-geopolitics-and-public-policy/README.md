@@ -12,7 +12,7 @@ This collection presents independent research by KING KUSSU examining economic p
 
 This research examines the economic and strategic consequences of the United Kingdom's withdrawal from the European Union, including financial services, labor mobility, exchange rates, economic interdependence, and international bargaining. The historical analysis is accompanied by a retrospective assessment.
 
-**Full paper:** PDF link to be added after upload.
+**Full paper:** [Read and download the Brexit research paper](https://github.com/king-kussu/king-kussu-research-papers/blob/main/02-economics-geopolitics-and-public-policy/KING_KUSSU_Brexit_Historical_Economic_Paper_and_2026_Assessment.pdf)
 
 ### 2. The Financial Limits of Global Power: America's $40 Trillion Debt
 
