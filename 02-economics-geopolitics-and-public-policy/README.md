@@ -21,7 +21,7 @@ This research examines the economic and strategic consequences of the United Kin
 
 This paper examines United States federal debt, fiscal sustainability, military expenditure, monetary supremacy, and the relationship between economic capacity and geopolitical influence. It also considers historical comparisons involving the rise and decline of great powers.
 
-**Full paper:** PDF link to be added after upload.
+**Full paper:** [Read and download The Financial Limits of Global Power](https://github.com/king-kussu/king-kussu-research-papers/blob/main/02-economics-geopolitics-and-public-policy/The_Financial_Limits_of_Global_Power_KING_KUSSU_2026.pdf)
 
 ## Interdisciplinary Research
 
